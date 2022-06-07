@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java/vn/iotstar/controller/HomeController.java=UTF-8
+encoding//src/main/java/vn/iotstar/controller/admin/AdminAddCategoryController.java=UTF-8
+encoding//src/main/java/vn/iotstar/controller/admin/AdminDeleteCategory.java=UTF-8
+encoding//src/main/java/vn/iotstar/controller/login/LoginController.java=UTF-8
+encoding//src/main/java/vn/iotstar/controller/login/SignupController.java=UTF-8
+encoding//src/main/java/vn/iotstar/controller/seller/AcountChangePassCotroller.java=UTF-8
+encoding//src/main/java/vn/iotstar/dao/impl/ProductDaoImpl.java=UTF-8
+encoding//src/main/webapp/common/seller/side.jsp=UTF-8
+encoding//src/main/webapp/views/seller/seller-acount.jsp=UTF-8
